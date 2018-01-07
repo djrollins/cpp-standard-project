@@ -1,0 +1,7 @@
+cmake
+compilation flags
+clang-tidy
+include what you use
+catch
+clang sanitizers
+static analyzer
